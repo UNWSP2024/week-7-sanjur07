@@ -11,7 +11,7 @@ def main():
 
     # Display the number.
     print('Number:', number)
-
+  
     # Display the list of numbers.
     print('List of numbers:')
     print(f'{number_list}')
